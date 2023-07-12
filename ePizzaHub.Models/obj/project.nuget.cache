@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "k4X+awGrZFGfDdgJ/4jj6OWWUMKzL8+ObjgAyjneW/ozRrzxpEbNdSaDUzon9ifZLZZoSdMus9+iJAv9cF/wmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.Models\\ePizzaHub.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shash\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\shash\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Core\bin\Debug\net6.0\ePizzaHub.Core.deps.json
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Core\bin\Debug\net6.0\ePizzaHub.Core.dll
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Core\bin\Debug\net6.0\ePizzaHub.Core.pdb
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Core\obj\Debug\net6.0\ePizzaHub.Core.csproj.AssemblyReference.cache
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Core\obj\Debug\net6.0\ePizzaHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Core\obj\Debug\net6.0\ePizzaHub.Core.AssemblyInfoInputs.cache
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Core\obj\Debug\net6.0\ePizzaHub.Core.AssemblyInfo.cs
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Core\obj\Debug\net6.0\ePizzaHub.Core.csproj.CoreCompileInputs.cache
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Core\obj\Debug\net6.0\ePizzaHub.Core.dll
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Core\obj\Debug\net6.0\refint\ePizzaHub.Core.dll
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Core\obj\Debug\net6.0\ePizzaHub.Core.pdb
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Core\obj\Debug\net6.0\ref\ePizzaHub.Core.dll

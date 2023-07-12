@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ePizzaHub.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ePizzaHub.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\Images\\7up.webp",
+      "PackagePath": "staticwebassets\\Images\\7up.webp"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\Images\\butter_scotch.webp",
+      "PackagePath": "staticwebassets\\Images\\butter_scotch.webp"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\Images\\cheese_n_corn.webp",
+      "PackagePath": "staticwebassets\\Images\\cheese_n_corn.webp"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\Images\\choco_lava.webp",
+      "PackagePath": "staticwebassets\\Images\\choco_lava.webp"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\Images\\farmhouse_pizza.webp",
+      "PackagePath": "staticwebassets\\Images\\farmhouse_pizza.webp"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\Images\\mirinda.webp",
+      "PackagePath": "staticwebassets\\Images\\mirinda.webp"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\Images\\nonveg_supreme.webp",
+      "PackagePath": "staticwebassets\\Images\\nonveg_supreme.webp"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\Images\\noveg_delight.webp",
+      "PackagePath": "staticwebassets\\Images\\noveg_delight.webp"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\Images\\paneer_pizza.webp",
+      "PackagePath": "staticwebassets\\Images\\paneer_pizza.webp"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\Images\\pepsi.webp",
+      "PackagePath": "staticwebassets\\Images\\pepsi.webp"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\Images\\pizza-header.png",
+      "PackagePath": "staticwebassets\\Images\\pizza-header.png"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\Images\\red_cake.webp",
+      "PackagePath": "staticwebassets\\Images\\red_cake.webp"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\Images\\veggie_pizza.webp",
+      "PackagePath": "staticwebassets\\Images\\veggie_pizza.webp"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\sports\\C#\\ePizzaHub\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ePizzaHub.UI.props",
+      "PackagePath": "build\\ePizzaHub.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ePizzaHub.UI.props",
+      "PackagePath": "buildMultiTargeting\\ePizzaHub.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ePizzaHub.UI.props",
+      "PackagePath": "buildTransitive\\ePizzaHub.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ePizzaHub.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

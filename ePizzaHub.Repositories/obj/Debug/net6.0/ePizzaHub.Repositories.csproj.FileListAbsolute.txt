@@ -1,0 +1,17 @@
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net6.0\ePizzaHub.Repositories.deps.json
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net6.0\ePizzaHub.Repositories.dll
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net6.0\ePizzaHub.Repositories.pdb
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net6.0\ePizzaHub.Core.dll
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net6.0\ePizzaHub.Models.dll
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net6.0\ePizzaHub.Core.pdb
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net6.0\ePizzaHub.Models.pdb
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net6.0\ePizzaHub.Repositories.csproj.AssemblyReference.cache
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net6.0\ePizzaHub.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net6.0\ePizzaHub.Repositories.AssemblyInfoInputs.cache
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net6.0\ePizzaHub.Repositories.AssemblyInfo.cs
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net6.0\ePizzaHub.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net6.0\ePizzaHub.Repositories.csproj.CopyComplete
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net6.0\ePizzaHub.Repositories.dll
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net6.0\refint\ePizzaHub.Repositories.dll
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net6.0\ePizzaHub.Repositories.pdb
+C:\Users\shash\OneDrive\Desktop\sports\C#\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net6.0\ref\ePizzaHub.Repositories.dll
