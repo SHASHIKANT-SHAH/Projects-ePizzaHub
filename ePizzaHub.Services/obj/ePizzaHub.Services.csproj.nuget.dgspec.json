@@ -1,0 +1,271 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Services\\ePizzaHub.Services.csproj": {}
+  },
+  "projects": {
+    "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Core\\ePizzaHub.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Core\\ePizzaHub.Core.csproj",
+        "projectName": "ePizzaHub.Core",
+        "projectPath": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Core\\ePizzaHub.Core.csproj",
+        "packagesPath": "C:\\Users\\prosh\\.nuget\\packages\\",
+        "outputPath": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Models\\ePizzaHub.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Models\\ePizzaHub.Models.csproj",
+        "projectName": "ePizzaHub.Models",
+        "projectPath": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Models\\ePizzaHub.Models.csproj",
+        "packagesPath": "C:\\Users\\prosh\\.nuget\\packages\\",
+        "outputPath": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj",
+        "projectName": "ePizzaHub.Repositories",
+        "projectPath": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj",
+        "packagesPath": "C:\\Users\\prosh\\.nuget\\packages\\",
+        "outputPath": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Core\\ePizzaHub.Core.csproj": {
+                "projectPath": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Core\\ePizzaHub.Core.csproj"
+              },
+              "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Models\\ePizzaHub.Models.csproj": {
+                "projectPath": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Models\\ePizzaHub.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Services\\ePizzaHub.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Services\\ePizzaHub.Services.csproj",
+        "projectName": "ePizzaHub.Services",
+        "projectPath": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Services\\ePizzaHub.Services.csproj",
+        "packagesPath": "C:\\Users\\prosh\\.nuget\\packages\\",
+        "outputPath": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj": {
+                "projectPath": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "RazorPay.Core": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

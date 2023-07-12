@@ -1,0 +1,12 @@
+F:\Code\Weekend\ePizzaHub18Dec\ePizzaHub.Models\bin\Release\net7.0\ePizzaHub.Models.deps.json
+F:\Code\Weekend\ePizzaHub18Dec\ePizzaHub.Models\bin\Release\net7.0\ePizzaHub.Models.dll
+F:\Code\Weekend\ePizzaHub18Dec\ePizzaHub.Models\bin\Release\net7.0\ePizzaHub.Models.pdb
+F:\Code\Weekend\ePizzaHub18Dec\ePizzaHub.Models\obj\Release\net7.0\ePizzaHub.Models.csproj.AssemblyReference.cache
+F:\Code\Weekend\ePizzaHub18Dec\ePizzaHub.Models\obj\Release\net7.0\ePizzaHub.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\Weekend\ePizzaHub18Dec\ePizzaHub.Models\obj\Release\net7.0\ePizzaHub.Models.AssemblyInfoInputs.cache
+F:\Code\Weekend\ePizzaHub18Dec\ePizzaHub.Models\obj\Release\net7.0\ePizzaHub.Models.AssemblyInfo.cs
+F:\Code\Weekend\ePizzaHub18Dec\ePizzaHub.Models\obj\Release\net7.0\ePizzaHub.Models.csproj.CoreCompileInputs.cache
+F:\Code\Weekend\ePizzaHub18Dec\ePizzaHub.Models\obj\Release\net7.0\ePizzaHub.Models.dll
+F:\Code\Weekend\ePizzaHub18Dec\ePizzaHub.Models\obj\Release\net7.0\refint\ePizzaHub.Models.dll
+F:\Code\Weekend\ePizzaHub18Dec\ePizzaHub.Models\obj\Release\net7.0\ePizzaHub.Models.pdb
+F:\Code\Weekend\ePizzaHub18Dec\ePizzaHub.Models\obj\Release\net7.0\ref\ePizzaHub.Models.dll
