@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kxPbj59TSlF5Ivkp6eCrRGrwjQWiShcMvQwF755IAzo=",
+  "Hash": "uvYnCWqgycWhsS4v3KYSqpSiIs+BeoDoj46sl1IBMOY=",
   "Source": "ePizzaHub.UI",
   "BasePath": "_content/ePizzaHub.UI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ePizzaHub.UI\\wwwroot",
       "Source": "ePizzaHub.UI",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ePizzaHub.UI.styles.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ePizzaHub.UI.styles.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "ePizzaHub.UI.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ePizzaHub.UI.styles.css"
+      "OriginalItemSpec": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ePizzaHub.UI.styles.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ePizzaHub.UI.bundle.scp.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ePizzaHub.UI.bundle.scp.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "ePizzaHub.UI.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ePizzaHub.UI.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ePizzaHub.UI.bundle.scp.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\css\\site.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\css\\site.min.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\css\\site.min.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\favicon.ico",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\7up.webp",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\7up.webp",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "images/7up.webp",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\7up.webp"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\butter_scotch.webp",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\butter_scotch.webp",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "images/butter_scotch.webp",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\butter_scotch.webp"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\cheese_n_corn.webp",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\cheese_n_corn.webp",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "images/cheese_n_corn.webp",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cheese_n_corn.webp"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\choco_lava.webp",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\choco_lava.webp",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "images/choco_lava.webp",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\choco_lava.webp"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\farmhouse_pizza.webp",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\farmhouse_pizza.webp",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "images/farmhouse_pizza.webp",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\farmhouse_pizza.webp"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\logo.png",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\mirinda.webp",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\mirinda.webp",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "images/mirinda.webp",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mirinda.webp"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\nonveg_supreme.webp",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\nonveg_supreme.webp",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "images/nonveg_supreme.webp",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\nonveg_supreme.webp"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\noveg_delight.webp",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\noveg_delight.webp",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "images/noveg_delight.webp",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\noveg_delight.webp"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\paneer_pizza.webp",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\paneer_pizza.webp",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "images/paneer_pizza.webp",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paneer_pizza.webp"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\pepsi.webp",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\pepsi.webp",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "images/pepsi.webp",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pepsi.webp"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\pizza-header.png",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\pizza-header.png",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "images/pizza-header.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pizza-header.png"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\red_cake.webp",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\red_cake.webp",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "images/red_cake.webp",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\red_cake.webp"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\veggie_pizza.webp",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\veggie_pizza.webp",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "images/veggie_pizza.webp",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\veggie_pizza.webp"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\bundle.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\bundle.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "js/bundle.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bundle.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\bundle.min.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\bundle.min.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "js/bundle.min.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bundle.min.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\cart.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\cart.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "js/cart.js",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\js\\cart.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\site.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\Logs\\log.json",
+      "Identity": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\Logs\\log.json",
       "SourceId": "ePizzaHub.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\",
       "BasePath": "_content/ePizzaHub.UI",
       "RelativePath": "Logs/log.json",
       "AssetKind": "All",

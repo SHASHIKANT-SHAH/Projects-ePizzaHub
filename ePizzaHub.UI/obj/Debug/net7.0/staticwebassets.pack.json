@@ -1,323 +1,323 @@
 {
   "Files": [
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ePizzaHub.UI.bundle.scp.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ePizzaHub.UI.bundle.scp.css",
       "PackagePath": "staticwebassets\\ePizzaHub.UI.bundle.scp.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\Logs\\log.json",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\Logs\\log.json",
       "PackagePath": "staticwebassets\\Logs\\log.json"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\css\\site.min.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\css\\site.min.css",
       "PackagePath": "staticwebassets\\css\\site.min.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\7up.webp",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\7up.webp",
       "PackagePath": "staticwebassets\\images\\7up.webp"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\butter_scotch.webp",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\butter_scotch.webp",
       "PackagePath": "staticwebassets\\images\\butter_scotch.webp"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\cheese_n_corn.webp",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\cheese_n_corn.webp",
       "PackagePath": "staticwebassets\\images\\cheese_n_corn.webp"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\choco_lava.webp",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\choco_lava.webp",
       "PackagePath": "staticwebassets\\images\\choco_lava.webp"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\farmhouse_pizza.webp",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\farmhouse_pizza.webp",
       "PackagePath": "staticwebassets\\images\\farmhouse_pizza.webp"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\logo.png",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\mirinda.webp",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\mirinda.webp",
       "PackagePath": "staticwebassets\\images\\mirinda.webp"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\nonveg_supreme.webp",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\nonveg_supreme.webp",
       "PackagePath": "staticwebassets\\images\\nonveg_supreme.webp"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\noveg_delight.webp",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\noveg_delight.webp",
       "PackagePath": "staticwebassets\\images\\noveg_delight.webp"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\paneer_pizza.webp",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\paneer_pizza.webp",
       "PackagePath": "staticwebassets\\images\\paneer_pizza.webp"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\pepsi.webp",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\pepsi.webp",
       "PackagePath": "staticwebassets\\images\\pepsi.webp"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\pizza-header.png",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\pizza-header.png",
       "PackagePath": "staticwebassets\\images\\pizza-header.png"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\red_cake.webp",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\red_cake.webp",
       "PackagePath": "staticwebassets\\images\\red_cake.webp"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\veggie_pizza.webp",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\images\\veggie_pizza.webp",
       "PackagePath": "staticwebassets\\images\\veggie_pizza.webp"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\bundle.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\bundle.js",
       "PackagePath": "staticwebassets\\js\\bundle.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\bundle.min.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bundle.min.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\cart.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\cart.js",
       "PackagePath": "staticwebassets\\js\\cart.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "F:\\Code\\Weekend\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\shash\\OneDrive\\Desktop\\Projects\\ePizzaHub18Dec\\ePizzaHub.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
